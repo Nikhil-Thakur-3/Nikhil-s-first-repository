@@ -1,5 +1,5 @@
 # Nikhil-s-first-repository
 This is my first Repository.
-<H>
+<h>
 Author- Nikhil Thakur
-<H>
+<h>
